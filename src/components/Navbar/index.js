@@ -16,7 +16,7 @@ return (
 		<NavLink to='/about' activestyle="true">
 			About
 		</NavLink>
-		<NavLink to='/events' activestyle="true">
+		{/* <NavLink to='/events' activestyle="true">
 			Events
 		</NavLink>
 		<NavLink to='/annual' activestyle="true">
@@ -27,7 +27,7 @@ return (
 		</NavLink>
 		<NavLink to='/blogs' activestyle="true">
 			Blogs
-		</NavLink>
+		</NavLink> */}
 		<NavLink to='/sign-up' activestyle="true">
 			Sign Up
 		</NavLink>

@@ -5,7 +5,7 @@ return (
 	<div style={{ display: 'flex', justifyContent: 'Right', alignItems: 'Right', height: '100vh'
 }}
 	>
-	<h1>GeeksforGeeks is a Computer Science portal for geeks.</h1>
+	<h1>To display info about me</h1>
 	</div>
 );
 };
